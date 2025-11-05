@@ -24,7 +24,7 @@ Este repositório reúne meus projetos pessoais e acadêmicos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias em desenvolvimento
 
 <img 
     align="left" 
